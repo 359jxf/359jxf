@@ -26,12 +26,15 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 
 ### Here are something about me🤔
 
-[![359jxf's GitHub stats](https://github-readme-stats.vercel.app/api?username=359jxf)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=359jxf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<!--
+[![359jxf's GitHub stats](https://github-readme-stats.vercel.app/api?username=359jxf)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Top Langs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Top Langs](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!--
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=359jxf&theme=vue&point=dcdcdc&line=ABD32F&bg_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
