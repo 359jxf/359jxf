@@ -24,12 +24,11 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 - 🔭 I’m currently studying Software Engineering at Tongji University.
 - 🌱 I am learning more about software-related knowledge, hoping to create meaningful products.
 
+<!--
 ### Here are something about me🤔
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=359jxf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-<!--
 [![359jxf's GitHub stats](https://github-readme-stats.vercel.app/api?username=359jxf)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Top Langs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
