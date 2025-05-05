@@ -23,6 +23,7 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 
 - 🔭 I’m currently studying Software Engineering at Tongji University.
 - 🌱 I am learning more about software-related knowledge, hoping to create meaningful products.
+- ✉️ You can contact me by 2253538@tongji.edu.cn
 
 <!--
 ### Here are something about me🤔
