@@ -19,13 +19,15 @@ others: https://github.com/anuraghazra/github-readme-stats
 icons: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
+<!--
 Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg) visitor!
+-->
 
 - 🔭 I’m currently studying Software Engineering at Tongji University.
 - 🌱 I am learning more about software-related knowledge, hoping to create meaningful products.
 - ✉️ You can contact me by 2253538@tongji.edu.cn
 
-<!--
+
 ### Here are something about me🤔
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=359jxf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,7 +38,7 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 ![Top Langs](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=359jxf&theme=vue&point=dcdcdc&line=ABD32F&bg_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 
 
 
