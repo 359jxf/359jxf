@@ -27,7 +27,7 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 - 🌱 I am learning more about software-related knowledge, hoping to create meaningful products.
 - ✉️ You can contact me by 2253538@tongji.edu.cn
 
-
+<!--
 ### Here are something about me🤔
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=359jxf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,6 +39,6 @@ Hello my No.![Visitor Count](https://profile-counter.glitch.me/359jxf/count.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=359jxf&theme=vue&point=dcdcdc&line=ABD32F&bg_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+-->
 
 
